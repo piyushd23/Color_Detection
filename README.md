@@ -1,3 +1,3 @@
 # Color Detection
-Welcome to Color Detection Project! This project is done using Keras Model, a model is an object that groups layers together and that can be trained on data. 
-For Keras model to work, Tensorflow is required. This project was done on Google Colab. 
+
+Hello! This Color Detection Project utilizes a Keras Model, which is an object that combines layers and can be trained on data. To use the Keras model, you'll need TensorFlow. The project was completed on Google Colab.
